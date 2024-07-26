@@ -1,6 +1,6 @@
 # Machine Learning
 
-Hello Everyone! This is the Readme File for the Introduction to Python 2022-23 Course (delivered by the Centre in September/October 2022).
+Hello Everyone! This is the Readme File for the Introduction to Machine Learning with Python 2022-23 Course.
 
 This workshop focused on how to start working with Python and notebooks and getting familiar with the interface and commands.
 
@@ -92,6 +92,8 @@ Make sure you know the location they have been downloaded to (usually your 'Down
 2.  Now click the blue 'Upload' button to load it into Noteable
 3.  Once the file has been uploaded, click on the filename to start the Notebook
 
+## License
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
 
 [anaconda]: https://www.anaconda.com/distribution
 [anaconda-dl]: https://www.anaconda.com/download/
