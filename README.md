@@ -2,8 +2,6 @@
 
 Hello Everyone! This is the Readme File for the Introduction to Machine Learning with Python 2022-23 Course.
 
-This workshop focused on how to start working with Python and notebooks and getting familiar with the interface and commands.
-
 The material in this repo was developed and curated by Bhargavi Ganesh.
 
 ## What you are going to find in this repo
